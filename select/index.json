@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "いつの日も",
+  "base_artist": "菅原紗由理",
+  "createdAt": "2026-02-21T16:55:04.858004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつの日も",
+      "artist": "阿部真央",
+      "has_synced": false,
+      "path": "select/01_いつの日も_阿部真央.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつの日も (Remaster)",
+      "artist": "阿部真央",
+      "has_synced": false,
+      "path": "select/02_いつの日も_(Remaster)_阿部真央.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃(CV.橘美來)、川咲さくら(CV.菅野真衣)、天動瑠依(CV.雨宮天)、神崎莉央(CV.戸松遥)、fran(CV.Lynn)",
+      "has_synced": true,
+      "path": "select/03_友達だよ、いつの日も_長瀬琴乃(CV.橘美來)、川咲さくら(CV.菅野真衣)、天動瑠依(CV.雨宮天)、神崎莉央(CV.戸松遥)、fran(CV.Lynn).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃",
+      "has_synced": true,
+      "path": "select/04_友達だよ、いつの日も_長瀬琴乃.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃(CV:橘美來),川咲さくら(CV:菅野真衣),天動瑠依(CV:雨宮天),神崎莉央(CV:戸松遥),山田・フランツィスカ・夏織(CV:Lynn)",
+      "has_synced": true,
+      "path": "select/05_友達だよ、いつの日も_長瀬琴乃(CV_橘美來),川咲さくら(CV_菅野真衣),天動瑠依(CV_雨宮天),神崎莉央(CV_戸松遥),山田・フランツィスカ・夏織(CV_Lynn).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃 (CV:橘 美來)",
+      "has_synced": true,
+      "path": "select/06_友達だよ、いつの日も_長瀬琴乃_(CV_橘_美來).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃 (CV:橘美來) & 川咲さくら (CV:菅野真衣) & 天動瑠依 (CV:雨宮天) & 神崎莉央 (CV:戸松遥) & 山田・フランツィスカ・夏織 (CV:Lynn)",
+      "has_synced": true,
+      "path": "select/07_友達だよ、いつの日も_長瀬琴乃_(CV_橘美來)_&_川咲さくら_(CV_菅野真衣)_&_天動瑠依_(CV_雨宮天)_&_神崎莉央_(CV_戸松遥)_&_山田・フランツィスカ・夏織_.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃 (橘美來), 川咲さくら (菅野真衣), 天動瑠依 (雨宮天), 神崎莉央 (戸松遥), fran (Lynn)",
+      "has_synced": true,
+      "path": "select/08_友達だよ、いつの日も_長瀬琴乃_(橘美來),_川咲さくら_(菅野真衣),_天動瑠依_(雨宮天),_神崎莉央_(戸松遥),_fran_(Lynn).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いつの日も (Inst.)",
+      "artist": "阿部真央",
+      "has_synced": true,
+      "path": "select/09_いつの日も_(Inst.)_阿部真央.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつの日も",
+      "artist": "菅原 紗由理",
+      "has_synced": false,
+      "path": "select/pl_01_いつの日も_菅原_紗由理.txt"
+    }
+  ]
+}
